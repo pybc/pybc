@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/piyabute-chairiboon/"
+    href="https://www.linkedin.com/in/piyabute-chairiboon/"
     target="blank"
     ><img
       align="center"
