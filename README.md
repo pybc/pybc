@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Piyabute</h1>
-![cats-cool](https://user-images.githubusercontent.com/90825317/156501203-c1c63fc6-1e3e-49d4-9ee3-95a0fb1de459.gif)
+<h1 align="left">Hi 👋, I'm Piyabute</h1>
 
-- 📫 How to reach me **piyabute.c@gmail.com**
-- 🔭 I’m currently working on [CPS Project](https://github.com/pybc/cps-web) 
+
+![cats](https://user-images.githubusercontent.com/90825317/156503526-34055d25-9c3f-48c1-8d64-f5ba20b5aa72.gif)
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=pybc&label=Profile%20views&color=0e75b6&style=flat"
     alt="pybc"
   />
 </p>
+
+- 🌱 I’m currently learning on react.js, vue.js, nuxt.js, next.js, golang, docker
+- 🔭 I’m currently working on [CPS Project](https://github.com/pybc/cps-web) 
+- 📫 How to reach me **piyabute.c@gmail.com**
 
 
 
@@ -26,7 +29,9 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+<h3 align="left">Skills and Experience:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -173,7 +178,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pybc&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pybc&theme=tokyonight&show_icons=true&locale=en&layout=compact"
     alt="pybc"
   />
 </p>
@@ -181,7 +186,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=pybc&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=pybc&theme=tokyonight&show_icons=true&locale=en"
     alt="pybc"
   />
 </p>
@@ -189,16 +194,16 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pybc&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pybc&theme=tokyonight"
     alt="pybc"
   />
 </p>
 
-
+<!-- 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=pybc"
       alt="pybc"
   /></a>
-</p>
+</p> -->
