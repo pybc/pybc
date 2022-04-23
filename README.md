@@ -9,7 +9,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning on react.js, vue.js, nuxt.js, next.js, golang, docker
+- 🌱 I’m currently learning on react.js, vue.js, fastapi, golang, docker
 - 🔭 I’m currently working on [CPS Project](https://github.com/pybc/cps-web) 
 - 📫 How to reach me **piyabute.c@gmail.com**
 
